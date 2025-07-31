@@ -4,10 +4,11 @@
   "description": "",
   "homepage": "https://github.com/egor-goloshchapov/hw-7-4-",
   "scripts": {
-  "start": "parcel src/index.html",
-  "build": "parcel build src/index.html --dist-dir dist --public-url ./",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --no-cache --public-url /parcel/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "keywords": [],
   "author": "",
