@@ -1,4 +1,4 @@
-4445
+4424
 40D:\github\hw-7-4-\node_modules\@lezer\lr133984653156858977 1
 81D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\font-variant-numeric.js133984653160962922 0
 39D:\github\hw-7-4-\node_modules\get-port133984653156228364 1
@@ -12,7 +12,7 @@
 68D:\github\hw-7-4-\node_modules\@parcel\runtime-js\src\helpers\worker133984653157889178 1
 62D:\github\hw-7-4-\node_modules\caniuse-lite\data\regions\IT.js133984653161609998 0
 80D:\github\hw-7-4-\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133984653156868981 0
-22D:\github\hw-7-4-\dist133984666129076380 1
+22D:\github\hw-7-4-\dist133984668112067002 1
 59D:\github\hw-7-4-\node_modules\type-fest\source\except.d.ts133984653157209763 0
 41D:\github\hw-7-4-\node_modules\is-extglob133984653156046250 1
 66D:\github\hw-7-4-\node_modules\@swc\helpers\esm\_inherits_loose.js133984653159307118 0
@@ -272,7 +272,6 @@
 62D:\github\hw-7-4-\node_modules\caniuse-lite\data\regions\PH.js133984653162587577 0
 44D:\github\hw-7-4-\node_modules\react-refresh133984653156888989 1
 41D:\github\hw-7-4-\node_modules\braces\lib133984653156598353 1
-109D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\refs\heads133984666136161359 1
 63D:\github\hw-7-4-\node_modules\posthtml-match-helper\index.d.ts133984655539002843 0
 42D:\github\hw-7-4-\node_modules\glob-parent133984654321916725 1
 38D:\github\hw-7-4-\node_modules\globals133984653156418625 1
@@ -307,7 +306,6 @@
 39D:\github\hw-7-4-\node_modules\jsonfile133984654321948216 1
 79D:\github\hw-7-4-\node_modules\@parcel\core\test\requests\DevDepRequest.test.js133984653158613853 0
 67D:\github\hw-7-4-\node_modules\parcel-reporter-clean-dist\.eslintrc133984655412851242 0
-130D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\sendemail-validate.sample133984666132129091 0
 43D:\github\hw-7-4-\node_modules\lightningcss133984653157109567 1
 71D:\github\hw-7-4-\node_modules\@parcel\profiler\src\SamplingProfiler.js133984653156428633 0
 62D:\github\hw-7-4-\node_modules\caniuse-lite\data\regions\UZ.js133984653163518417 0
@@ -1612,7 +1610,6 @@
 59D:\github\hw-7-4-\node_modules\entities\lib\decode.d.ts.map133984655539143042 0
 67D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\jpegxl.js133984653161649971 0
 77D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\web-app-manifest.js133984653163719101 0
-128D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\push-to-checkout.sample133984666132124061 0
 56D:\github\hw-7-4-\node_modules\msgpackr\rollup.config.js133984653157437333 0
 88D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\css-container-queries-style.js133984653159438241 0
 49D:\github\hw-7-4-\node_modules\async\retryable.js133984654322645284 0
@@ -2211,7 +2208,7 @@
 58D:\github\hw-7-4-\node_modules\fast-glob\out\settings.d.ts133984654322306114 0
 68D:\github\hw-7-4-\node_modules\@nodelib\fs.scandir\out\utils\fs.d.ts133984654322103285 0
 56D:\github\hw-7-4-\node_modules\fast-glob\out\settings.js133984654322144703 0
-93D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git133984666132084048 1
+93D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git133984667897828586 1
 50D:\github\hw-7-4-\node_modules\fast-glob\out\types133984654322256112 1
 62D:\github\hw-7-4-\node_modules\@parcel\error-overlay\.eslintrc133984653155521984 0
 66D:\github\hw-7-4-\node_modules\@parcel\package-manager\src\Yarn.js133984653157738992 0
@@ -2898,7 +2895,6 @@
 83D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133984653160387227 0
 78D:\github\hw-7-4-\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133984653159065774 0
 68D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\details.js133984653160400531 0
-108D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\refs\tags133984666136171345 1
 78D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\deviceorientation.js133984653160410537 0
 77D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\devicepixelratio.js133984653160410537 0
 74D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\dispatchevent.js133984653160430524 0
@@ -2929,7 +2925,6 @@
 68D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\fileapi.js133984653160777353 0
 125D:\github\hw-7-4-\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133984653159775837 0
 81D:\github\hw-7-4-\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133984653157874134 0
-128D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-merge-commit.sample133984666132114053 0
 74D:\github\hw-7-4-\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133984653157044424 0
 82D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\font-family-system-ui.js133984653160892812 0
 73D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\font-feature.js133984653160902863 0
@@ -2944,9 +2939,7 @@
 68D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\gamepad.js133984653161028059 0
 57D:\github\hw-7-4-\node_modules\@parcel\watcher\src\kqueue133984653157778992 1
 72D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\geolocation.js133984653161058065 0
-127D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\objects\pack\tmp_pack_PjpOlp133984666147239334 0
 82D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\getboundingclientrect.js133984653161068059 0
-123D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-receive.sample133984666132114053 0
 65D:\github\hw-7-4-\node_modules\@parcel\utils\test\input\sourcemap133984653158950603 1
 58D:\github\hw-7-4-\node_modules\@parcel\utils\src\stream.js133984653158704036 0
 71D:\github\hw-7-4-\node_modules\caniuse-lite\data\features\hashchange.js133984653161228314 0
@@ -3835,7 +3828,6 @@
 61D:\github\hw-7-4-\node_modules\@parcel\watcher\src\Backend.cc133984653155777328 0
 61D:\github\hw-7-4-\node_modules\@parcel\watcher\src\binding.cc133984653155961209 0
 62D:\github\hw-7-4-\node_modules\@parcel\watcher\src\Debounce.hh133984653157632837 0
-98D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git133984666147259374 1
 61D:\github\hw-7-4-\node_modules\@parcel\watcher\src\DirTree.cc133984653156768513 0
 61D:\github\hw-7-4-\node_modules\@parcel\core\src\serializer.js133984653159418252 0
 59D:\github\hw-7-4-\node_modules\@parcel\watcher\src\Event.hh133984653157687917 0
@@ -4403,20 +4395,7 @@
 55D:\github\hw-7-4-\node_modules\@lezer\lr\dist\index.cjs133984653155961209 0
 57D:\github\hw-7-4-\node_modules\@lezer\lr\dist\index.d.cts133984653156176711 0
 52D:\github\hw-7-4-\node_modules\@lezer\common\LICENSE133984653155531979 0
-111D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\objects\pack133984666137853426 1
 59D:\github\hw-7-4-\node_modules\@lezer\common\dist\index.cjs133984653156006248 0
-104D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks133984666147269389 1
-103D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\info133984666132129091 1
-106D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\objects133984666132179152 1
-103D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\refs133984666136171345 1
-111D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\objects\info133984666132179152 1
-111D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\info\exclude133984666132129091 0
-126D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-applypatch.sample133984666132104052 0
-122D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-commit.sample133984666132104052 0
-120D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-push.sample133984666132114053 0
-122D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\pre-rebase.sample133984666132114053 0
-130D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\prepare-commit-msg.sample133984666132124061 0
-118D:\github\hw-7-4-\node_modules\.cache\gh-pages\https!github.com!egor-goloshchapov!hw-7-4-.git\.git\hooks\update.sample133984666132129091 0
 48D:\github\hw-7-4-\node_modules\.bin\browserslist133984653164293811 0
 52D:\github\hw-7-4-\node_modules\.bin\browserslist.cmd133984653164293811 0
 47D:\github\hw-7-4-\node_modules\.bin\detect-libc133984653164293811 0
@@ -4439,8 +4418,8 @@
 46D:\github\hw-7-4-\node_modules\.bin\semver.ps1133984653164494104 0
 58D:\github\hw-7-4-\node_modules\.bin\update-browserslist-db133984653164479053 0
 62D:\github\hw-7-4-\node_modules\.bin\update-browserslist-db.cmd133984653164479053 0
-42D:\github\hw-7-4-\dist\hw-7-4-.31b563d9.js133984665640986026 0
-46D:\github\hw-7-4-\dist\hw-7-4-.31b563d9.js.map133984665640986026 0
+42D:\github\hw-7-4-\dist\hw-7-4-.31b563d9.js133984668112036989 0
+46D:\github\hw-7-4-\dist\hw-7-4-.31b563d9.js.map133984668112067002 0
 42D:\github\hw-7-4-\dist\hw-7-4-.a583aab9.js133984665640996013 0
 46D:\github\hw-7-4-\dist\hw-7-4-.a583aab9.js.map133984665640996013 0
 33D:\github\hw-7-4-\dist\index.html133984666129076380 0
