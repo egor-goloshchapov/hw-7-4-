@@ -667,7 +667,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"a0t4e":[function(require,module,exports,__globalThis) {
-var _data = require("./data");
+var _data = require("../data");
 const container = document.getElementById('app');
 const ul = document.createElement('ul');
 (0, _data.products).forEach((product)=>{
@@ -683,7 +683,7 @@ const ul = document.createElement('ul');
 });
 container.appendChild(ul);
 
-},{"./data":"5s9fq"}],"5s9fq":[function(require,module,exports,__globalThis) {
+},{"../data":"fFIED"}],"fFIED":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "products", ()=>products);
