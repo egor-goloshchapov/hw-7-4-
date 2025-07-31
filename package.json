@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --no-cache",
-    "deploy": "gh-pages -d dist",
+    "build": "node build.js",
+    "deploy": "npm run build && gh-pages -d build",
     "predeploy": "npm run build"
   },
   "keywords": [],
