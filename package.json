@@ -1,0 +1,24 @@
+{
+  "name": "hw-7-4-",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/egor-goloshchapov/hw-7-4-",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "handlebars": "^4.7.8",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^2.0.1"
+  }
+}
